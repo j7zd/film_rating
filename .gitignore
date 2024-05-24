@@ -1,0 +1,5 @@
+/test.py
+.venv
+/docker-compose.yml
+/mysql
+/.vscode
